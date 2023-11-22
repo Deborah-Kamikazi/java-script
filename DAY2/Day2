@@ -1,0 +1,9 @@
+//declaring avaliable//
+let test;
+test = 1;
+console.log(test);
+//assign value to another variable//
+let numOne = 4;
+let numTwo = numOne;
+console.log(numTwo);
+
