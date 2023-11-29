@@ -25,3 +25,9 @@ function testfunction()
 console.log(counterse);
 testfunction();
 console.log(counters);
+
+let year = 1990;
+console.log(year);
+console.log(1992);
+console.log("Alice");
+
